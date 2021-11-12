@@ -1,0 +1,11 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Online User"
+msgstr "在线用户"
+
+msgid "speed"
+msgstr "网速"
+
+msgid "user online"
+msgstr "在线用户"
